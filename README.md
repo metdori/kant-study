@@ -8,3 +8,8 @@ git init
 git add .
 git add -A
 ```
+
+```bash
+# Commit
+git commit -m "commit message..."
+```
